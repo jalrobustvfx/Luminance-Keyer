@@ -19,6 +19,9 @@ A Nuke-style **Channel & Luminance Keyer** that generates a clean black-and-whit
 
 ---
 
+<img width="2236" height="1045" alt="Capture" src="https://github.com/user-attachments/assets/685e2d03-fcb3-4fb6-8302-c79c4867ce1b" />
+
+
 ## Installation
 
 ```bash
